@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2015/12/06/09/15/maple-1079235_960_720.jpg" alt="cover" />
+<img width="100%" height = "300px" src="https://cdn.pixabay.com/photo/2016/04/06/08/50/gears-1311171_960_720.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -11,9 +11,9 @@
 <div size='20px'> Hi! My name is Chris. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="45%" align="right" alt="Github" src="https://cdn.pixabay.com/photo/2019/02/20/15/03/people-4009327_960_720.png" />
 
 
 - 🔭 I’m currently working on algorithms and projects 
