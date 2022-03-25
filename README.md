@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My Blog, Github Project
+- 🔭 I’m currently working on algorithms and projects 
 
 - 👯 I’m looking to collaborate on Projects 
 
